@@ -1,0 +1,23 @@
+{
+  "name": "lineageproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateNFTSet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdellabella/LineageProj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdellabella/LineageProj/issues"
+  },
+  "homepage": "https://github.com/lucasdellabella/LineageProj#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "merge-images": "^2.0.0"
+  }
+}
